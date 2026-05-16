@@ -24,3 +24,10 @@ dist-ssr
 *.sw?
 .env.local
 .enc.production
+
+.env
+frontend/.env
+backend/.env
+node_modules/
+__pycache__/
+*.pyc
